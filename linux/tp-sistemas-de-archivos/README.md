@@ -12,7 +12,7 @@
 - `/dev`: Contiene archivos que representan partes del hardware, como discos duros y memoria.
 - `/var`: Contiene datos como registros de actividad de programas, bases de datos, contenidos del servidor web y copias de seguridad.
 
-![Estructura del árbol de directorios](./assets/01_estructura_directorios.png)
+![Estructura del árbol de directorios](./assets/01_raiz_ls.png)
 
 ## 2. Sensibilidad a Mayúsculas y Minúsculas
 
