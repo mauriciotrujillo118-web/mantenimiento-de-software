@@ -1,7 +1,7 @@
 # Trabajo Práctico Laboratorio: Exploración del Sistema de Archivos en Linux
 
 - **Materia:** Mantenimiento de Software
-- **Estudiante:** Thiago Benjamin Fonseca Perez
+- **Estudiante:** Mauricio Cristian Trujillo
 - **Fecha de Entrega:** 2026
 - **Profesor:** Gabriel Artaza
 
