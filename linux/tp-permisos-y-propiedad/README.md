@@ -11,7 +11,7 @@ El primer carácter indica el tipo de archivo: `-` representa un archivo común,
 Los nueve caracteres restantes se dividen en tres grupos: los primeros tres corresponden al propietario, los siguientes tres al grupo y los últimos tres a otros usuarios. En cada grupo, `r` significa lectura, `w` escritura y `x` ejecución. Un guion `-` indica que ese permiso no está habilitado.
 En el archivo `informe.txt`, los permisos son `-rw-rw-r--`: el propietario y el grupo pueden leer y modificar el archivo, mientras que otros usuarios solo pueden leerlo. Ninguno tiene permiso de ejecución.
 
-![Lectura e interpretación de permisos](./01_lectura_permisos_ls.png)
+![Lectura e interpretación de permisos](./01_lectura_permisos.ls.png)
 
 ## 2. Permisos en Modo Octal
 
